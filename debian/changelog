@@ -1,3 +1,12 @@
+dde-polkit-agent (6.0.22) unstable; urgency=medium
+
+  * fix: set screen config to ScreenFromCompositor
+  * chore: Sync by
+    https://github.com/linuxdeepin/.github/commit/88706fa723e3771211cb07
+    81d3d97fd4a6cd2a68
+
+ -- zhangkun <zhangkun2@uniontech.com>  Wed, 24 Jun 2026 15:34:44 +0800
+
 dde-polkit-agent (6.0.21) unstable; urgency=medium
 
   * fix: prevent polkit auth dialog from being permanently blocked after
